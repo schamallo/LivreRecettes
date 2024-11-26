@@ -3,24 +3,24 @@ Pour 3 personnes
 # Ingrédients
 
 - Pour la garniture 
-	- 500g de poulet (optionnel)
-	- 500g de pommes de terre
+	- 500 g de poulet (optionnel)
+	- 500 g de pommes de terre
 	- 2 carottes
-	- 20g de beurre
+	- 20 g de beurre
 	- Riz
 	- Sel, poivre
 - Pour la sauce
 	- 2 gousses d'ail
-	- 10g de gingembre frais
+	- 10 g de gingembre frais
 	- 1 oignon
 	- 1 pied de céleri
 	- 2 tomates
-	- 1cc de miel
-	- 3cs de farine
-	- 3cs de curry en poudre 
-	- 700ml de bouillon
+	- 1 cc de miel
+	- 3 cs de farine
+	- 3 cs de curry en poudre 
+	- 700 mL de bouillon
 	- Quelques feuilles de laurier
-	- $1/2$cs de garam masala
+	- $1/2$ cs de garam masala
 	- Sel, poivre
 
 # Préparation

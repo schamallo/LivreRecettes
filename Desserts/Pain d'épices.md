@@ -1,12 +1,12 @@
-#four 
+#dessert #four 
 
 # Ingrédients
 
-- 300g de farine
-- 55g de beurre
-- 140g de sucre roux
-- 100g d'écorces d'oranges confites
-- 125ml de lait
+- 300 g de farine
+- 55 g de beurre
+- 140 g de sucre roux
+- 100 g d'écorces d'oranges confites
+- 125 mL de lait
 - 1 oeuf
 - 1 pincée de sel
 - 1 cc de bicarbonate de soude

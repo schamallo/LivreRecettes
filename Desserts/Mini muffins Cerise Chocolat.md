@@ -1,15 +1,15 @@
 Pour 4 personnes \ 12 mini-muffins
-#four 
+#dessert #four 
 
 # Ingrédients
 
 - 12 cerises 
 - 2 oeufs
-- 60g de sucre
-- 50g de farine
+- 60 g de sucre
+- 50 g de farine
 - 1/2 sachet de levure chimique
-- 150g de chocolat noir à patisser
-- 80g de beurre
+- 150 g de chocolat noir à pâtisser
+- 80 g de beurre
 
 # Préparation
 

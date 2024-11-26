@@ -1,4 +1,4 @@
-#1_casserole #mixeur 
+#dessert #1_casserole #mixeur 
 
 # Ingrédients 
 

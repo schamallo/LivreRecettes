@@ -1,26 +1,25 @@
-
-#plat, #1_casserole 
-
 Pour 6 raviolis
+#plat #1_casserole 
+
 Récupérée de https://www.youtube.com/watch?v=eg2YB4xBewU&t=810s.
 # Ingrédients 
 
 - Pour la farce
-	- 250g de chair à farce (porc)
-	- 1/2 chou blanc
+	- 250 g de chair à farce (porc)
+	- $1/2$ chou blanc
 	- 1 poignée de shiitake
 	- Ciboulette
 	- Ail
 	- Gingembre
-	- 1cs de sucre
-	- 1cs de bouillon de poulet en poudre
-	- 1cs de mirin
-	- 1cs de sauce soja
+	- 1 cs de sucre
+	- 1 cs de bouillon de poulet en poudre
+	- 1 cs de mirin
+	- 1 cs de sauce soja
 	- Poivre & sel
 - Pour la pâte
-	- 150g de farine
-	- 20g de maïzena
-	- 110mL d'eau
+	- 150 g de farine
+	- 20 g de maïzena
+	- 110 mL d'eau
 	- 1 pincée de sel
 # Préparation
 
