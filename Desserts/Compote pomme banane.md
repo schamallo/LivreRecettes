@@ -5,7 +5,7 @@
 - 4 pommes rouges
 - 2 bananes
 - 1 pincée de cannelle
-- 3cs d'eau
+- 3 cs d'eau
 # Préparation
 
 1. Peler puis couper les pommes et les bananes en petits morceaux. 
